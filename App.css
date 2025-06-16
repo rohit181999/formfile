@@ -1,0 +1,66 @@
+/* /////////css */
+.form-vailidetion{
+    border: 1px solid red;
+    height: 99.34vh;
+    width: 95rem;
+    background-color: rgb(182, 123, 82);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+gap: 160px;
+background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230706/pngtree-3d-rendering-of-a-blue-walled-home-office-interior-image_3817311.jpg');
+background-repeat: no-repeat;
+background-size:100% 100%;
+   
+}
+.navber-form{
+    /* border: 1px solid yellow; */
+    height: 500px;
+     width: 400px;
+     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+     /* background-image: url('https://improvinglivescounseling.com/wp-content/uploads/banner-3-1-1.png');
+     background-repeat: no-repeat;
+     background-size:cover; */
+     background-color: rgba(208, 255, 0, 0.332);
+}
+h2{
+    text-align: center;
+}
+.inpu-vailid{
+    padding: 8px 19px;
+    border-radius: 5px;
+    border: none;
+}
+form{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 24px;
+}
+.lable-image{
+    cursor: pointer;
+}
+.btn-on:hover{
+    background-color: chartreuse;
+    color: rgb(0, 17, 255);
+}
+.btn-on{
+    width: 10rem;
+}
+.entry-data{
+
+    /* border: 1px solid red; */
+    height: 700px;
+    width: 40%;
+   background-color: rgba(30, 99, 210, 0.408);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+h3{
+    font-size: 30px;
+}
+.data-all-deatails{
+ display: flex;
+ flex-direction: column;
+}
